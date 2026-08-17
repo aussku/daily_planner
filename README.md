@@ -4,7 +4,7 @@ A cross-platform productivity application built with React Native and Expo.
 
 ## Features
 
-- Projects
+- Categories
 - Tasks
 - Calendar
 - Focus Sessions
